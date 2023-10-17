@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(165, 12, 185);
+}
+
+.heading{
+    font-size: 40px;
+    color: rgb(43, 32, 83);
+}
+
+.text{
+    size: 50px;
+    color: rgb(13, 55, 110);
+}
+
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.convert{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.convertButton{
+   color: rgb(112, 13, 68);
+}
+
+
+
+
+
